@@ -9,6 +9,6 @@
   }
 
   a {
-    @apply no-underline hover:text-blue-500;
+    @apply no-underline hover:underline hover:decoration-dashed;
   }
 }
