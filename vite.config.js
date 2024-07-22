@@ -1,7 +1,5 @@
-import webfontDownload from 'vite-plugin-webfont-dl';
+import { defineConfig } from 'vite'
 
-export default {
-  plugins: [
-    webfontDownload(),
-  ],
-};
+export default defineConfig({
+  plugins: [],
+});
