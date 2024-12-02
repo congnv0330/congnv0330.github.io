@@ -15,6 +15,15 @@
     "minimal-ui",
     "window-controls-overlay"
   ],
+  "categories": [
+    "personalization"
+  ],
+  "edge_side_panel": {
+    "preferred_width": 375
+  },
+  "launch_handler": {
+    "client_mode": ["auto"]
+  },
   "icons": [
     {
       "src": "icon-48.png",
